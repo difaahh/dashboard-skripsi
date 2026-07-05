@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+gensim
+sentence-transformers
+scikit-learn
+umap-learn
+torch
+transformers
+Sastrawi
+nltk
+wordcloud
+matplotlib
